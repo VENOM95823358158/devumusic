@@ -24,9 +24,9 @@
 
 <pre>
 
-<b><i>••Deploy DevuMusic to Okteto••</i></b>
+<b><i>••Deploy VENOMMusic to Okteto••</i></b>
 
-<p><a href="https://cloud.okteto.com/deploy?repository=https://github.com/ItsmeHyper13/DevuMusic"><img src="https://img.shields.io/badge/Deploy_To_Okteto%20%20-black?style=for-the-badge&logo=Okteto" width="200"/></a></p>
+<p><a href="https://cloud.okteto.com/deploy?repository=https://github.com/VENOM9582335815/DevuMusic"><img src="https://img.shields.io/badge/Deploy_To_Okteto%20%20-black?style=for-the-badge&logo=Okteto" width="200"/></a></p>
 
 </details>
 
@@ -36,7 +36,7 @@
 
 <i>All credit Goes To these peoples</i><br>
 
-<code>ItsmeHyper13: Main Credit</code><br>
+<code>VENOM9582335815: Main Credit</code><br>
 
 <code>Nub Hu vro Schhi me🥲🥲</code><br>
 
@@ -54,11 +54,11 @@
 
 <h3><b><i>Forks nd Stars</i></b></h3>
 
-<img src="https://img.shields.io/github/license/ItsmeHyper13/DevuMusic.svg"> <img src="https://img.shields.io/github/forks/ItsmeHyper13/DevuMusic.svg"> <img src="https://img.shields.io/github/stars/ItsmeHyper13/DevuMusic.svg">
+<img src="https://img.shields.io/github/license/VENOM9582335815/DevuMusic.svg"> <img src="https://img.shields.io/github/forks/VENOM9582335815/DevuMusic.svg"> <img src="https://img.shields.io/github/stars/VENOM9582335815/DevuMusic.svg">
 
-<a href="https://github.com/ItsmeHyper13/DevuMusic"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ItsmeHyper13&repo=DevuMusic&theme=chartreuse-dark"></a>
+<a href="https://github.com/VENOM9582335815/DevuMusic"><img src="https://github-readme-stats.vercel.app/api/pin/?username=VENOM9582335815&repo=DevuMusic&theme=chartreuse-dark"></a>
 
-<a href="https://github.com/ItsmeHyper13/DevuMusic/fork"><img src="https://img.shields.io/badge/Fork%20Devu%20Music-black?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/VENOM9582335815/DevuMusic/fork"><img src="https://img.shields.io/badge/Fork%20Devu%20Music-black?style=for-the-badge&logo=github"></a>
 
 </pre></p>
 
